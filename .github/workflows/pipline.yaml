@@ -24,4 +24,4 @@ jobs:
         run: npm test
 
       - name: Run Application
-        run: npm start 
+        run: npm run 
